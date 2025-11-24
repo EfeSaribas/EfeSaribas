@@ -23,3 +23,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=efesaribas&show_icons=true&locale=en" alt="efesaribas" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=efesaribas&" alt="efesaribas" /></p>
+
+![snake gif](https://github.com/EfeSaribas/EfeSaribas/raw/output/github-snake.svg)
